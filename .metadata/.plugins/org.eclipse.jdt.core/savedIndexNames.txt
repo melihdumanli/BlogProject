@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Projects\Java WorkSpace\BilgeAdamJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4253197428.index
+600655081.index
+599597230.index
